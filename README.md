@@ -1,13 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello&fontSize=70&fontAlignY=40&fontColot=ffffff)
 
-<h2>🖥 Career</h2>
 
-|    Type    |        Date       |      Contents     | Organization |
-|:----------:|:-----------------:|:-----------------:|:------------:|
-| Employment | 2017.03 ~ 2018.08 | Android Developer |      [IWS](https://www.iwsys.co.kr/)      |
-| Employment |     2021.03 ~     |   Web Developer   |  [Petfriends](https://www.pet-friends.co.kr/main/tab/6/)  |
-
-<br>
 
 <h2>💜 Activity</h2>
 
